@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Slideshow homepage is usually paid highest attention by visitors. So, it's one of the most important in your website. Responsive Slideshow extension allows you to easy making the beautiful slideshow in your website.

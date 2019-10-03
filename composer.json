@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/MGS_ResponsiveSlideshow",
+    "name": "openmage-module-fostering\/mgs_responsiveslideshow",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Slideshow homepage is usually paid highest attention by visitors. So, it's one of the most important in your website. Responsive Slideshow extension allows you to easy making the beautiful slideshow in your website.",
     "authors": [
